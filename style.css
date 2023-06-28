@@ -27,7 +27,7 @@ body {
   }
   
   .container h1 {
-    background: linear-gradient(to bottom, rgb(173, 230, 195), blue);
+    background: linear-gradient(to bottom, blue(177, 173, 230), blue);
     font-size: 60px;
     padding: 20px;
     margin: 0;
